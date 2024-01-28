@@ -3,10 +3,15 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaosha007&layout=compact&theme=merko)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaosha007&layout=compact&theme=merko"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xiaosha007&theme=gruvbox&show_icons=true"/>
+</p>
 
 
-![Wei Xiang's github stats](https://github-readme-stats.vercel.app/api?username=xiaosha007&theme=gruvbox&show_icons=true)
 
 
 
